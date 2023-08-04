@@ -3,12 +3,12 @@ This dynamic dashboard consolidates various Sales-related datasets, product info
 
 ## phases of projectof project : 
 
-# 2.Data Cleaning:
-Deleting redundant columns.
+# 1.Data Cleaning:
+Deleting redundant columns.# 
 Dropping duplicates.
 Cleaning individual columns.
 Remove the NaN values from the dataset
-# 3.Data Visualization: UsingPower BI.
+# 2.Data Visualization: UsingPower BI.
 Get Correlation between different variables
 create filter by mount, product and Location 
 Map of locations

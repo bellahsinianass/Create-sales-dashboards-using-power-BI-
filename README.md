@@ -8,5 +8,5 @@ This dynamic dashboard consolidates various Sales-related datasets, product info
 #### Remove the NaN values from the dataset...
 ## 2.Data Visualization: UsingPower BI.
 #### Get Correlation between different variables
-#### Create filter by Mounth, Product and Location 
+#### Create filter by Month, Product and Location 
 #### Map of locations...
